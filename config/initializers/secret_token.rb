@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-UrlShortener::Application.config.secret_key_base = 'e84c7b10d85a9b6689d90c1bb4beaffea716efe2ce014665f376d5c93e054e620c9a8deb4ea0216bc2c95b64db2f130119e737ebd13e777730e4ae663b5c207f'
+SwellData::Application.config.secret_key_base = 'e84c7b10d85a9b6689d90c1bb4beaffea716efe2ce014665f376d5c93e054e620c9a8deb4ea0216bc2c95b64db2f130119e737ebd13e777730e4ae663b5c207f'
